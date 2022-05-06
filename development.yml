@@ -1,0 +1,4 @@
+name: majnu
+channels:
+  - defaults
+prefix: C:\Users\admin\.conda\envs\majnu
